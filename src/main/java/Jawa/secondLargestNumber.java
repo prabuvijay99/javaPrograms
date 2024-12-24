@@ -12,6 +12,6 @@ public class secondLargestNumber {
 		
 		Arrays.sort(inp);
 		
-		System.out.println(inp);
+		System.out.println(inp[inp.length-2]);
 	}
 }
